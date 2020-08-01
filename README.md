@@ -6,7 +6,7 @@ The goal is to generate a caption in English language, given an image
 * The dataset used is Flicker30K and images used are 6000 and its associated 30k captions which is 5 captions per image.
 * The dataset is having varieties of images and hence if more data is used for training, predictions could have been much better, but that need
   heavy GPU.
-* More than 30% captions are gramatically incorrect and to some extent I have cleaned them using Grammerly software.
+* More than 30% captions are gramatically incorrect and to some extent I have cleaned them using Grammerly software and uploaded the csv file.
 * The CNN architecture used is Inception which has appx 24M parameters. I have tried VGG-16 which has appx 134M parameters, but the
   predictions were almost similar and hence I didnt used the VGG-16.
 * The Decoder architecture is based on Show Attend and Tell paper but the loss is not converging less than 0.57 even after 200 epochs and
