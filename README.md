@@ -16,3 +16,6 @@ The goal is to generate a caption in English language, given an image
 * Have used Greedy search and Beam Search with 5 and 7 predictions.
 * Some predictions are repetitive and this behaviour is not understandable, tried to solve but coud'nt due to lack of expertise.
 * Thanks to Tensorflow blog on this topic through which this woud'nt be possible.
+
+
+** Note: There are two notebooks. One is based on the research paper and another is a Bahdanau implementation in decoder.
