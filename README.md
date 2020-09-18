@@ -11,7 +11,7 @@ The goal is to generate a caption in English language, given an image
   predictions were almost similar and hence I didnt used the VGG-16.
 * The Decoder architecture is based on Show Attend and Tell paper but the loss is not converging less than 0.57 even after 200 epochs and
   hence need to end the loss at 0.57.
-* The results of paper implementation are not at par Bahdanau Attention implementation in Decoder.
+* The results of "Paper implementation in Decoder" are not at par "Bahdanau Attention Paper implementation in Decoder".
 * Played with batchsize of 32 and 64, but both giving appx same results and I have choosen 64 as it has less iterations per epoch.
 * Have used Greedy search and Beam Search with 5 and 7 predictions.
 * Some predictions are repetitive and this behaviour is not understandable, tried to solve but coud'nt due to lack of expertise.
@@ -20,11 +20,19 @@ The goal is to generate a caption in English language, given an image
 
 ** Note: There are two notebooks. One is based on the research paper and another is a Bahdanau implementation in decoder.
 
-* A sample of Images with generated captions are shown below.
+* A sample of Images with generated captions based on "Bahdanau Attention Paper implementation in Decoder" are shown below.
+
+
+
+* A sample of Images with generated captions based on "Paper implementation in Decoder" are shown below.
+
+* Title: Two men sit on a boat.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/2.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/1.jpg?raw=true)
+
+* Title: A group of men and loading cotton.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/4.jpg?raw=true)
 
