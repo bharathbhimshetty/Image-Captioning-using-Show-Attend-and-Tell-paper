@@ -19,3 +19,11 @@ The goal is to generate a caption in English language, given an image
 
 
 ** Note: There are two notebooks. One is based on the research paper and another is a Bahdanau implementation in decoder.
+
+* A sample of Image with generated captions are shown below.
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/1.jpg?raw=true)
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/2.jpg?raw=true)
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/3.jpg?raw=true)
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/4.jpg?raw=true)
+
