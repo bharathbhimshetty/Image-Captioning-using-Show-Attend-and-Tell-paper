@@ -20,39 +20,39 @@ The goal is to generate a caption in English language, given an image
 
 ** Note: There are two notebooks. One is based on the research paper and another is a Bahdanau implementation in decoder.
 
-* A sample of Images with generated captions based on "Bahdanau Attention Paper implementation in Decoder" are shown below.
+## A sample of Images with generated captions based on "Bahdanau Attention Paper implementation in Decoder" are shown below.
 
-* Title: 
+### Title:  Groups of people observe fish in a large tank.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/5.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/6.jpg?raw=true)
 
-* Title: 
+### Title: Some children are playing in a slum.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/7.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/8.jpg?raw=true)
 
-* Title: 
+### Title: Picture of a hotdog vendor in the street.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/9.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/10.jpg?raw=true)
 
-* Title: 
+### Title: Two women are in a  water slide.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/11.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/12.jpg?raw=true)
 
-* Title: 
+### Title: The reflection of a tee-shirtless man shaving.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/13.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/14.jpg?raw=true)
 
-* Title: 
+### Title: There are playing in the two white dogs and one brown dog chasing a ball.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/15.jpg?raw=true)
 
@@ -60,15 +60,15 @@ The goal is to generate a caption in English language, given an image
 
 
 
-* A sample of Images with generated captions based on "Paper implementation in Decoder" are shown below.
+## A sample of Images with generated captions based on "Paper implementation in Decoder" are shown below.
 
-* Title: Two men sit on a boat.
+### Title: Two men sit on a boat.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/2.jpg?raw=true)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/1.jpg?raw=true)
 
-* Title: A group of men and loading cotton.
+### Title: A group of men and loading cotton.
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/4.jpg?raw=true)
 
