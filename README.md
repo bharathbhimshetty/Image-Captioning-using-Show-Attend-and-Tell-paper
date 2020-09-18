@@ -22,6 +22,42 @@ The goal is to generate a caption in English language, given an image
 
 * A sample of Images with generated captions based on "Bahdanau Attention Paper implementation in Decoder" are shown below.
 
+* Title: 
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/5.jpg?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/6.jpg?raw=true)
+
+* Title: 
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/7.jpg?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/8.jpg?raw=true)
+
+* Title: 
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/9.jpg?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/10.jpg?raw=true)
+
+* Title: 
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/11.jpg?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/12.jpg?raw=true)
+
+* Title: 
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/13.jpg?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/14.jpg?raw=true)
+
+* Title: 
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/15.jpg?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Image-Captioning-using-Show-Attend-and-Tell-paper/blob/master/16.jpg?raw=true)
+
 
 
 * A sample of Images with generated captions based on "Paper implementation in Decoder" are shown below.
